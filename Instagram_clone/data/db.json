@@ -1,0 +1,189 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/dp1 (1).jpg"
+      },
+      "image": "src/assets/post1 (1).jpg",
+      "caption": "Beautiful Sunset #Nature",
+      "likes": 120,
+      "comments": [
+        {
+          "user": "alice_wonder",
+          "comment": "Wow! Amazing shot!"
+        },
+        {
+          "user": "mark_92",
+          "comment": "Where is this place??"
+        }
+      ],
+      "timestamp": "2025-02-11T14:30:00"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sara_miles",
+        "profile_pic": "src/assets/dp1 (2).jpg"
+      },
+      "image": "src/assets/post2.png",
+      "caption": "Morning vibes ☕️ #CoffeeTime",
+      "likes": 98,
+      "comments": [
+        {
+          "user": "coffee_lover",
+          "comment": "I need one now!"
+        }
+      ],
+      "timestamp": "2025-02-12T08:45:00"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "tom_hardy",
+        "profile_pic": "src/assets/dp1 (3).jpg"
+      },
+      "image": "src/assets/mount.png",
+      "caption": "Conquered the peak! 🏔️ #HikingAdventures",
+      "likes": 230,
+      "comments": [
+        {
+          "user": "anna_climb",
+          "comment": "Respect! That looks tough!"
+        },
+        {
+          "user": "explorer_j",
+          "comment": "Which trail did you take?"
+        }
+      ],
+      "timestamp": "2025-02-13T17:20:00"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "emily_rose",
+        "profile_pic": "src/assets/dp1 (4).jpg"
+      },
+      "image": "src/assets/pasta.png",
+      "caption": "Home-cooked pasta 🍝 #Foodie",
+      "likes": 180,
+      "comments": [
+        {
+          "user": "chef_james",
+          "comment": "Looks delicious!"
+        }
+      ],
+      "timestamp": "2025-02-14T13:10:00"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "michael_scott",
+        "profile_pic": "src/assets/dp1 (5).jpg"
+      },
+      "image": "src/assets/dog.jpg",
+      "caption": "Meet my new buddy 🐶 #PuppyLove",
+      "likes": 245,
+      "comments": [
+        {
+          "user": "pam_beesly",
+          "comment": "Adorable! What's his name?"
+        },
+        {
+          "user": "dwight_schrute",
+          "comment": "Question: is it a Schrute Farm dog?"
+        }
+      ],
+      "timestamp": "2025-02-15T11:00:00"
+    }
+  ],
+  "profile": {
+    "id": 1,
+    "user": {
+      "id": 101,
+      "username": "johnson",
+      "profile_pic": "src/assets/story3.jpg"
+    }
+  },
+  "suggestions": [
+    {
+      "id": "101",
+      "username": "john_doe",
+      "profile_pic": "src/assets/dp1 (1).jpg"
+    },
+    {
+      "id": "102",
+      "username": "sara_miles",
+      "profile_pic": "src/assets/dp1 (2).jpg"
+    },
+    {
+      "id": "103",
+      "username": "tom_hardy",
+      "profile_pic": "src/assets/dp1 (3).jpg"
+    },
+    {
+      "id": "104",
+      "username": "emily_rose",
+      "profile_pic": "src/assets/dp1 (4).jpg"
+    },
+    {
+      "id": "105",
+      "username": "michael_scott",
+      "profile_pic": "src/assets/dp1 (5).jpg"
+    }
+  ],
+  "story": [
+    {
+      "id": "1",
+      "user": {
+        "id": 101,
+        "username": "john_doe",
+        "profile_pic": "src/assets/dp1 (1).jpg"
+      },
+      "image": "src/assets/story1.jpg"
+    },
+    {
+      "id": "2",
+      "user": {
+        "id": 102,
+        "username": "sara_miles",
+        "profile_pic": "src/assets/dp1 (2).jpg"
+      },
+      "image": "src/assets/story2.jpg"
+    },
+    {
+      "id": "3",
+      "user": {
+        "id": 103,
+        "username": "tom_hardy",
+        "profile_pic": "src/assets/dp1 (3).jpg"
+      },
+      "image": "src/assets/story3.jpg"
+    },
+    {
+      "id": "4",
+      "user": {
+        "id": 104,
+        "username": "emily_rose",
+        "profile_pic": "src/assets/dp1 (4).jpg"
+      },
+      "image": "src/assets/story4.jpg"
+    },
+    {
+      "id": "5",
+      "user": {
+        "id": 105,
+        "username": "michael_scott",
+        "profile_pic": "src/assets/dp1 (5).jpg"
+      },
+      "image": "src/assets/story5.jpg"
+    }
+  ],
+  "followers": []
+}
